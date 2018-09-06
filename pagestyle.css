@@ -1,0 +1,148 @@
+body {
+	background-image: url("https://78.media.tumblr.com/010c46067b29b710ce9a508fb4171dfb/tumblr_inline_n1ubnjJXdz1qmvw6b.gif");
+    background-color: black;
+	font-family: "Century Gothic";
+	color: #737373;
+	
+}
+h1 {
+    color: #d9ccff;
+	font-family: "Century Gothic";
+	text-align: center;
+	
+}
+
+h3{
+	
+   color: #d9ccff; 	
+	
+}
+
+p {
+    color: #8c8c8c;
+	
+}
+span{
+	color: red;
+	font-weight: bold; 
+	
+}
+table{
+	border: 0px;
+	width: 85%;
+}
+
+img{
+	
+	text-align: center;
+}
+
+section {
+	float: left; 
+	margin: auto;
+	
+	
+}
+.myFace{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 250px;
+	height: 250px;
+}
+
+#contentbox {
+    background-color: #f2f2f2;
+    width: 600px;
+	height: 900px;
+    border: 2px solid pink;
+	
+	outline-style: double;
+	outline-color: white;
+	outline-width: 7px;
+    padding: 25px;
+    margin: auto;
+	
+}
+#myName{
+	
+	text-align: center;
+	
+}
+
+#quote{
+	
+	color: white;
+	text-align: center;
+	
+}
+
+#links{
+	text-align: center;
+	
+	
+}
+
+#interestHeader{
+	
+	color: #8c8c8c;
+}
+#classHeader{
+	
+	color: #8c8c8c;
+}
+#educationHeader{
+	
+	color: #8c8c8c;
+}
+#jobHeader{
+	
+	color: #8c8c8c;
+}
+
+#classwork{
+	border-collapse: collapse;
+    border-spacing: 0;
+    width: 50%;
+    border: 1px solid pink;
+	margin: auto;
+}
+th, td {
+	text-align: left;
+	padding: 16px;
+	
+	
+}
+
+tr{
+	
+	background-color: white;
+	color: #b0c6fc;
+}
+
+tr:nth-child(even){
+	background-color: #b0c6fc;
+	color: white;
+	
+}
+
+
+a:link {
+	
+	color: lightblue;
+}
+
+a:visited {
+	
+	color: #ff99cc;
+}
+
+a:hover {
+	
+	color: white ;
+}
+
+a:active {
+	
+	color: purple;
+}
