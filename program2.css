@@ -1,0 +1,23 @@
+body{
+	background-color: #FFCC00;
+    background-image: url("https://images.pexels.com/photos/940302/pexels-photo-940302.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940");
+	color: #000000;
+	font-family: "Georgia";
+	text-align: center;
+	
+	
+	
+}
+h1{
+	background-color: #F0F0F0;
+	font-family: "Century Gothic";
+    color: #A4A400;
+	text-align: center;
+	
+}
+a:link {
+	
+	color: blue;
+	
+	
+}

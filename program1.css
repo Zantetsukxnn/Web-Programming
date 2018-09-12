@@ -1,0 +1,73 @@
+body{
+	background-color: #FFCC00;
+	color: #000000;
+	font-family: "Georgia";
+	
+	
+	
+}
+table{
+	
+	background-color: #CC9933;
+	color: #FFFFFF;
+	 margin-top: 20px;
+	
+}
+
+th{ 
+   background-color: #003366;
+     color: #FFFFFF;
+	 border:2px;
+	 border-color: white;
+	 outline-style:solid;
+	 padding: 5px;
+
+}
+
+td {
+	background-color: #F0F0F0;
+    color: #FFFFFF;
+	border:2px;
+	 border-color: white;
+	 outline-style:solid;
+	 padding: 5px;
+	
+	
+}
+ul{
+	list-style-type: square;
+	
+	
+}
+h1{
+	background-color: #F0F0F0;
+	font-family: "Century Gothic";
+    color: #A4A400;
+	text-align: center;
+	
+}
+h2{
+	background-color: #F0F0F0;
+	font-family: "Century Gothic";
+    color: #A4A400;
+	text-align: center;
+	
+}
+h3{
+	font-family: "Georgia";
+	
+}
+
+span{
+	font-weight: bold; 
+	
+}
+
+a:link {
+	
+	color: blue;
+	background-color: #fbfbb6;
+	text-decoration: none;
+	
+}
+
