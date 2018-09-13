@@ -1,0 +1,125 @@
+body{
+	background-color: black;
+	background-image: url("https://78.media.tumblr.com/a71bb2e04b6bc1c8d0bb2f1afd26435e/tumblr_pex6dsARCD1vjsrdvo1_1280.png");
+	color: white;
+	font-family: "Century Gothic";
+	
+	
+	
+}
+
+span{
+	font-weight: bold;
+	
+	
+	
+}
+
+ul{
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+	overflow: hidden;
+	background-color: black;
+	
+}
+
+li{
+	float: left;
+	
+}
+
+li a {
+	
+	display: block;
+	color: white;
+	text-align: center;
+	padding: 14px 16px;
+	text-decoration: none;
+	
+}
+
+li a:hover {
+	background-color: #990000;
+	
+}
+
+
+
+ #buttons a:link, #buttons a:visited {
+	background-color: black;
+	color: white; 
+	
+	text-align: center; 
+	text-decoration:none;
+	display: inline-block;
+	
+}
+
+ #buttons a:hover, #buttons a:active{
+	
+	background-color: #990000;
+	font-size: 35px;
+
+	
+}
+
+#buttons{
+	position: fixed;
+	left: 300px;
+	bottom: 200px;
+	
+
+}
+
+#pagetitle{
+	position: fixed;
+	left: 250px;
+	bottom: 300px;
+	
+	
+}
+
+#playbutton{
+	letter-spacing: 5px;
+	font-size: 30px;
+	text-align: center;
+	
+}
+#titlestyle{
+	letter-spacing: 5px;
+	font-size: 30px;
+	text-align: center;
+	
+}
+
+#loadbutton{
+    letter-spacing: 5px;
+	font-size: 30px;	
+	text-align: center;
+}
+
+
+#chaptersbox{
+	
+	
+	background: rgba(255, 255, 255, 0.5);
+    width:750px;
+	height: 480px;
+    padding: 25px;
+    margin: auto;
+	overflow: scroll;
+	
+	
+}
+
+.chp{
+	
+	display: block;
+    margin-left: auto;
+    margin-right: auto;
+   
+}
+
+
+
