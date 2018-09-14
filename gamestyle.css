@@ -67,7 +67,7 @@ li a:hover {
 #buttons{
 	position: fixed;
 	left: 300px;
-	bottom: 200px;
+	bottom: 150px;
 	
 
 }
@@ -81,6 +81,12 @@ li a:hover {
 }
 
 #playbutton{
+	letter-spacing: 5px;
+	font-size: 30px;
+	text-align: center;
+	
+}
+#videobutton{
 	letter-spacing: 5px;
 	font-size: 30px;
 	text-align: center;
